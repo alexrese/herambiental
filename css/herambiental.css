@@ -3,6 +3,9 @@
 }
 
 header.masthead{
-    background-image: url("../assets/herambinetal/floresta.png");
-    
+    background-image: url("../assets/herambinetal/floresta.png");    
+}
+
+.text-white{
+    color: white !important;
 }
