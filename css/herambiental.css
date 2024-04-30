@@ -1,0 +1,11 @@
+.navbar-brand img{
+    height: 90px !important;
+}
+
+header.masthead{
+    background-image: url("../assets/herambinetal/floresta.jpg");    
+}
+
+.text-white{
+    color: white !important;
+}
